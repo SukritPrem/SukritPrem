@@ -1,5 +1,5 @@
 ## Hi there 👋
-![alt text](https://github.com/SukritPrem/SukritPrem/blob/main/Resume.pdf)
+![alt text](https://github.com/SukritPrem/SukritPrem/blob/main/Screenshot%202025-05-20%20150136.png)
 
 <!--
 **SukritPrem/SukritPrem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
