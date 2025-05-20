@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ![alt text](https://github.com/SukritPrem/SukritPrem/blob/main/Screenshot%202025-05-20%20150136.png)
 
 <!--
